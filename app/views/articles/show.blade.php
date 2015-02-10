@@ -1,0 +1,1 @@
+/Users/Rahman/Projects/Secure.Kampuzz/app/views/articles/show.blade.php

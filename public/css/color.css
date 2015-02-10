@@ -1,0 +1,43 @@
+
+a{
+	text-decoration:none;
+	color:#5a6d9f;
+}
+a:hover{
+	text-decoration:underline;
+	color:#5a6d9f;
+}
+#chatlist{
+	background:url(../images/blue/chat-bg.jpg) repeat-x;
+	width:192px;
+	float:right;
+	
+}
+.notifi-m{
+	background:url(../images/notification.png) no-repeat top center;
+}
+.notifi-c{
+	background:url(../images/notification.png) no-repeat top center;
+}
+
+
+
+.leftpan h2{
+	color:#5669a2;
+}
+.h-box{
+	color:#000;
+	background:#F4F7FF;
+}
+.h-box ul{
+	color:#615e96;
+}
+.h-box ul li{
+	background:url(../images/leftp-arrow2.png) no-repeat 4px 11px;
+	border-bottom:dotted 1px #4c91c5;
+}
+.h-box h4, .h-box h2{
+	color:#4c91c5;
+	border-bottom:solid 1px #e4e8f2;
+}
+.user-info-b span{color:#6d7fae;}
